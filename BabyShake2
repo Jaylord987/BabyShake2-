@@ -1,0 +1,40 @@
+print("Welcome to Barty (baby party)")
+baby = int(input("how mane tiem yuo want babe to parte?"))
+baby_shoke = 1
+while True:
+    print("   (*^_^*)")
+    print(" [   ]")
+    print("  ! !")
+    
+    print("(*^_^*)")
+    print("  [   ]")
+    print("   ! !")
+    
+    print("    (*^_^*)")
+    print("   [   ]")
+    print("    ! !")
+    
+    print(" (*^_^*)")
+    print("    [   ]")
+    print("     ! !")
+    
+    print("    (*^_^*)")
+    print("     [   ]")
+    print("      ! !")
+    
+    print("     (*^_^*)")
+    print("      [   ]")
+    print("       ! !")
+    
+    print("      (*^_^*)")
+    print("       [   ]")
+    print("        ! !")
+    
+    print("       (*^_^*)")
+    print("        [   ]")
+    print("         ! !")
+    baby_shoke = baby_shoke + 1
+    if baby_shoke == baby:
+        break
+print("YOUR BABY HAS BEEN OFFICIALY PARTYSHOKE")
+    
